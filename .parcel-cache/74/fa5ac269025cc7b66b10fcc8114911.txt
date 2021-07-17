@@ -1,0 +1,20 @@
+19
+28D:\jirengu\MVC-1\src\app2.js132709818481386378 0
+44D:\jirengu\MVC-1\dist\index.f5526047.css.map132709824149239599 0
+21D:\jirengu\MVC-1\dist132709824149249566 1
+20D:\jirengu\MVC-1\src132709818723288512 1
+29D:\jirengu\MVC-1\src\app2.css132709818438561515 0
+29D:\jirengu\MVC-1\src\app1.css132709823587228492 0
+28D:\jirengu\MVC-1\src\app1.js132709824130069566 0
+29D:\jirengu\MVC-1\src\app3.css132709818518843794 0
+28D:\jirengu\MVC-1\src\app3.js132709818566195376 0
+29D:\jirengu\MVC-1\src\app4.css132709818685904569 0
+28D:\jirengu\MVC-1\src\app4.js132709818723288512 0
+31D:\jirengu\MVC-1\src\global.css132709822236091021 0
+32D:\jirengu\MVC-1\dist\index.html132709824149189730 0
+31D:\jirengu\MVC-1\src\index.html132709820949405801 0
+30D:\jirengu\MVC-1\src\reset.css132709822079298699 0
+28D:\jirengu\MVC-1\src\main.js132709822458284143 0
+39D:\jirengu\MVC-1\dist\index.bd78eeec.js132709824149189730 0
+43D:\jirengu\MVC-1\dist\index.bd78eeec.js.map132709824149239599 0
+40D:\jirengu\MVC-1\dist\index.f5526047.css132709824149199716 0

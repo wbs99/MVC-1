@@ -1,0 +1,4 @@
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+var _app1Css = require("./app1.css");
+var _jquery = require("jquery");
+var _jqueryDefault = parcelHelpers.interopDefault(_jquery);

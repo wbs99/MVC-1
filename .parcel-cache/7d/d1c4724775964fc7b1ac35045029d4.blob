@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+* {
+  box-sizing: border-box;
+}
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+ol,
+ul {
+  list-style: none;
+}
+
+body {
+  overflow: hidden;
+}
+body > .page {
+  display: flex;
+  flex-wrap: wrap;
+}
+body > .page > section {
+  width: 50vw;
+  height: 50vh;
+  border: 1px solid grey;
+}
+
+#app1 {
+  width: 50vw;
+  height: 50vh;
+}
+#app1 .output {
+}
+#app1 .actions {
+}
+
+
+/*# sourceMappingURL=index.HASH_REF_47fc7065cc13434358593afdf5526047.css.map */

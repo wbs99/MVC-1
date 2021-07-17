@@ -1,0 +1,19 @@
+#app4 {
+}
+@keyframes move {
+  0% {
+    background: red;
+  }
+  100% {
+    backgroun: blue;
+  }
+}
+#app4 .circle {
+  width: 30vw;
+  height: 30vw;
+  border: 1px solid red;
+  border-radius: 50%;
+}
+#app4 .circle.active {
+  animation: move 1s infinite alternate linear;
+}
